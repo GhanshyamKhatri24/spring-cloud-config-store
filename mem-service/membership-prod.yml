@@ -1,10 +1,10 @@
 member:
  rent:
-  min: 5
+  min: 52
   max: 40
  price:
   discount: 3.5
 vehicle:
  default:
-  model: cross over
+  model: cross over prod
 duration: all
